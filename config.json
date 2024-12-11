@@ -1,7 +1,8 @@
 {
-    "id":123,
-    "name":"test_package",
+    "id":1,
+    "name":"p_test",
+    "description":"asdasdasdawdasdasd",
     "author":"TheAihopGG",
-    "version":"1.0.0",
-    "url":""
+    "version":"2.0.0",
+    "url":"https://github.com/TheAihopGG/pm_test_package/archive/refs/tags/2.0.0.tar.gz"
 }
